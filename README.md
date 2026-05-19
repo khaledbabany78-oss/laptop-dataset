@@ -10,3 +10,7 @@ Benefits of a laptop dataset:
 * Useful for machine learning projects
 * Helps users choose suitable laptops
 * Used for price and performance prediction
+-------
+## Video Tutorial
+
+Watch here:
