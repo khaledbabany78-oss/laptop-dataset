@@ -4,7 +4,7 @@ A laptop dataset contains information about different laptops, such as brand, pr
 -----------------------------------------------
 -------------------------------------------------
 Benefits of a laptop dataset:
-
+-----
 * Helps compare laptop specifications
 * Makes data analysis easier
 * Useful for machine learning projects
