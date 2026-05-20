@@ -7,7 +7,7 @@ A laptop dataset contains information about different laptops, such as brand, pr
 -----------------------------------------------
 -------------------------------------------------
 What does this dataset cover?
-
+---
 This laptop dataset contains information about different laptop brands, features, and specifications such as:
 
 * Brand name
@@ -21,7 +21,7 @@ This laptop dataset contains information about different laptop brands, features
 * Price
 
 Benefits of this dataset
-
+----
 * Helps analyze laptop prices based on specifications.
 * Can be used for machine learning and price prediction.
 * Useful for comparing different laptop brands and models.
