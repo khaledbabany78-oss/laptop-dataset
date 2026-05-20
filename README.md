@@ -28,7 +28,6 @@ Benefits of this dataset
 * Helps identify the most common laptop features.
 * Good for practicing data analysis, visualization, and data cleaning using Python.
 -------
-## Video Tutorial
 
-Watch here:
-https://youtu.be/cU91kEJGRe8?si=tDz7hjsTMWR-Sd-u
+
+
